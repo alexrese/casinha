@@ -1,0 +1,9 @@
+#home{
+    background-image:  url("../img/casinha/1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 1024px;
+}
+#home div h1{color: aliceblue;}
+
+#home div p{color: aliceblue;}
